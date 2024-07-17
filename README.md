@@ -1,4 +1,4 @@
-# Rushitha11
+PROGRAMS
 #program replace all the vowels with *(star) in the string "hello world"
 str_='python selenium'
 in_=0
